@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Bharath</h2>
+<h2 align="center"> Hi, I'm Bharath M</h2>
 
 <p align="center">
 Final-year Engineering Student • AI, ML & Data Science Enthusiast  
@@ -28,6 +28,6 @@ I enjoy working with data, building models, and creating intelligent systems.
 - Email: bharathm.ai@outlook.com
 
 <p align="center">
-✨ Thanks for stopping by!
+Thanks for stopping by!
 </p>
 
