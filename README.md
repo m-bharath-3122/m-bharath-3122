@@ -13,20 +13,15 @@ I enjoy working with data, building models, and creating intelligent systems.
 - Passionate about solving meaningful problems through technology  
 - Always trying to learn something new and improve my skills  
 
-🧠 **Skills & Tools**
-AI, ML,IoT  & Data Science  
-- Python, Pandas, NumPy  
-- Scikit-learn, TensorFlow, Keras  
-- LSTM models, time-series forecasting  
-- Classification, regression, data preprocessing  
+🛠️ Skills & Technologies  
+- Python, SQL, C/C++
+- Machine Learning, Deep Learning, Data Analysis  
+- Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow  
+- Platforms: Metabase, Apache Airflow, Power BI, Blynk, ThingsBoard, ThingSpeak 
+- Git, Docker, VSCode
 - ESP32, Arduino  
-- Common sensors (DHT, MQ-series, BME280)  
 
-**Backend, Cloud & Automation**
-- MySQL, PostgreSQL  
-- Apache Airflow  
-- Docker  
-- ThingsBoard, ThingSpeak  
+
 
 📫 Contact Me
 - LinkedIn: (https://www.linkedin.com/in/bharath-m-achari/)
